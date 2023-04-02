@@ -1,2 +1,2 @@
-# Prototype-1.1
-FYP Project -- SkySavvy: Weather Forecast Website
+# Prototype_1.1
+FYP -- SkySavvy : Weather Forecast Website
